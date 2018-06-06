@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity = "center">
+            <TextView
+                android:id="@+id/tv_local_music"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/local_music"
+                android:textColor="@drawable/music_tab_bar_text_color_selector"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_online_music"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:gravity="center"
+                android:text="@string/online_music"
+                android:textColor="@drawable/music_tab_bar_text_color_selector"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+</FrameLayout>

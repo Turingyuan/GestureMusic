@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\GraduationDesign\\GestureMusic\\openCVLibrary320\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "F:\\GraduationDesign\\GestureMusic\\openCVLibrary320\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "F:\\GraduationDesign\\PonyMusic-master\\openCVLibrary320\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "F:\\GraduationDesign\\PonyMusic-master\\openCVLibrary320\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": []
+        }
+    ]
+}
